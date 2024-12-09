@@ -1,11 +1,6 @@
-/*
-	Name: Zoya Jetham
-	Roll Number: 1520
-	Unit 1: Sorting & Searching Techniques
-	Program: Shell Sort */ 
-          
 import java.util.Scanner;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               class ShellSort1
+
+class ShellSort                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        class ShellSort1
 {
 	//Method for ShellSort
 	public static void SSort(int[] arr)
@@ -17,7 +12,6 @@ import java.util.Scanner;
 		for(int gap=n/2 ; gap>0 ; gap=gap/2)	// Reduce gap size
 		{
 			for(int i=gap ; i<n ;i++)	// Perform insertion sort for elements at a gap
-
 			{
 				//save the current element
 				temp=arr[i];
@@ -27,7 +21,6 @@ import java.util.Scanner;
 				for(j=i; j>=gap && arr[j-gap]>temp ; j=j-gap)
 				{
 					arr[j] = arr[j-gap];
-
 				}//end of for j
 				
 				//Put temp in its correct position

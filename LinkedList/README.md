@@ -1,4 +1,4 @@
-**Linked List Implementations**
+##Linked List Implementations
 **1. Singly Linked List**
 A Singly Linked List is a linear data structure where each element (node) contains a value and a reference (or link) to the next node in the sequence. This structure allows for efficient insertion and deletion of nodes.
 ![image](https://github.com/user-attachments/assets/f563420d-3c40-4ee5-a475-9fcb9f1e1236)

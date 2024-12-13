@@ -75,7 +75,8 @@ Binary Search is a more efficient algorithm that works on sorted datasets by rep
 
 ### Binary Search:
 - Recursively splits the dataset into halves.  
-  ![Binary Search](https://github.com/user-attachments/assets/binary-search.png)  
+ ![image](https://github.com/user-attachments/assets/bfbea11c-c61c-4bac-becf-e572f5e47361)
+
 
 ---
 

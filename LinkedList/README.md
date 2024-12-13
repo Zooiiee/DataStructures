@@ -4,10 +4,15 @@ A Singly Linked List is a linear data structure where each element (node) contai
 ![image](https://github.com/user-attachments/assets/f563420d-3c40-4ee5-a475-9fcb9f1e1236)
 **Operations:**
 **Insert at Tail:** Adds a new node at the end of the list.
+
 **Insert at Head:** Adds a new node at the beginning of the list.
+
 **Count:** Returns the total number of nodes in the list.
+
 **Display:** Traverses and prints all nodes in the list.
+
 **Delete:** Removes a node from the list based on its value or position.
+
 **Search:** Finds a node in the list by its value.
 
 **2. Circular Linked List**

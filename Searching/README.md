@@ -70,8 +70,7 @@ Binary Search is a more efficient algorithm that works on sorted datasets by rep
 ## **Visual Representation**
 ### Linear Search:
 - Traverses the array element by element.  
-[![Animated GIF](https://github.com/user-attachments/assets/dad1c39b-60dc-44d9-be95-fad6435ba955)](https://chercher.tech/gif/linear-search1.gif)
-
+[![Animated GIF](https://chercher.tech/gif/linear-search1.gif)](https://chercher.tech/gif/linear-search1.gif)
 
 ### Binary Search:
 - Recursively splits the dataset into halves.  

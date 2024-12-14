@@ -1,6 +1,6 @@
 //Program: Parenthesis Balancing
 
-public class Parbal
+public class ParBal
 {
 	public static void main(String [] args)
 	{

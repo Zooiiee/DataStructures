@@ -1,7 +1,8 @@
 //Program: Shell Sort
           
 import java.util.Scanner;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               class ShellSort
+
+class ShellSort
 {
 	//Method for ShellSort
 	public static void SSort(int[] arr)

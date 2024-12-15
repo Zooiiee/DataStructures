@@ -1,4 +1,4 @@
-//Program: Parenthesis Balancing       
+//Program: Infix to postfix   
 
 public class InToPost {
 	// Operator Check

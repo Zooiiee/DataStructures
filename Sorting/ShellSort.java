@@ -1,8 +1,4 @@
-/*
-	Name: Zoya Jetham
-	Roll Number: 1520
-	Unit 1: Sorting & Searching Techniques
-	Program: Shell Sort */ 
+//Program: Shell Sort
           
 import java.util.Scanner;
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                class ShellSort
